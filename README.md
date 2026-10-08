@@ -1,6 +1,6 @@
-# Phạm Nguyễn Hoàng Phúc (concatapchay123)
+# Phạm Nguyễn Hoàng Phúc
 
-> **Information Security & Fullstack Developer** 🛡️💻  
+> **Information Security & Fullstack Developer**
 > Passionate about cybersecurity, system defense, and building robust full-stack applications.
 
 <!-- AWAKEN:START -->
