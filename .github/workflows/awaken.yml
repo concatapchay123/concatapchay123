@@ -22,6 +22,3 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: billtruong003/git-profile-awaken@main
-        with:
-          # Optional: Pass a fine-grained GitHub token if you want to include private contributions
-          # token: ${{ secrets.AWAKEN_TOKEN }}
