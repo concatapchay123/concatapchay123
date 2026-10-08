@@ -1,0 +1,69 @@
+{
+  "$schema": "https://raw.githubusercontent.com/billtruong003/git-profile-awaken/main/schema/awaken.json",
+  "username": "concatapchay123",
+  "theme": "tokyonight",
+  "layout": "portfolio",
+  "motion": "full",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "banner": {
+    "style": "glitch",
+    "lines": [
+      "[ SYSTEM NOTIFICATION: PLAYER AWAKENED ]",
+      "PLAYER: Pham Nguyen Hoang Phuc",
+      "CLASS: Information Security & Fullstack Developer",
+      "MISSION: Securing cyberspace, building robust applications."
+    ]
+  },
+  "bio": {
+    "role": "Infosec & Fullstack Developer",
+    "focus": "Web Security & Fullstack Architecture",
+    "location": "Vietnam",
+    "about": "Passionate about cybersecurity, defense mechanisms, and crafting reliable, secure web applications."
+  },
+  "career": [
+    {
+      "role": "Security & Fullstack Engineer",
+      "org": "Personal Projects & Studies",
+      "years": "2025 - Present",
+      "current": true
+    }
+  ],
+  "arsenal": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "FastAPI",
+    "Linux",
+    "Docker",
+    "Git",
+    "PostgreSQL",
+    "Wireshark",
+    "Burp Suite",
+    "Kali Linux"
+  ],
+  "spotlight": [
+    "concatapchay123/X-SENTINEL",
+    "concatapchay123/PWD301",
+    "concatapchay123/Library-Management-System"
+  ],
+  "socials": [
+    {
+      "type": "email",
+      "url": "mailto:concatapchay123@example.com",
+      "label": "Email"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://linkedin.com/in/concatapchay123",
+      "label": "LinkedIn"
+    },
+    {
+      "type": "discord",
+      "url": "https://discord.com",
+      "label": "Discord"
+    }
+  ],
+  "cv": "cv.pdf"
+}
