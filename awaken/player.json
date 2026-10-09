@@ -2,20 +2,20 @@
   "login": "concatapchay123",
   "level": 5,
   "overall": "B",
-  "overallPercentile": 0.7702749125328866,
+  "overallPercentile": 0.7704303406781675,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
     "element": "Arcane",
     "from": "Python"
   },
-  "title": "Berserker",
+  "title": "The Collector",
   "stats": [
     {
       "code": "STR",
-      "value": 187,
+      "value": 189,
       "rank": "B",
-      "percentile": 0.8050902315025912
+      "percentile": 0.8069683203328021
     },
     {
       "code": "AGI",
@@ -48,7 +48,22 @@
       "percentile": 0
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-09T21:37:06.593Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-09T21:37:06.593Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 187
+      "value": 189
     },
     {
       "id": "unbroken",
@@ -143,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 26
+      "value": 27
     },
     {
       "id": "daily-grinder",
@@ -158,12 +173,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 4
+      "value": 6
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -172,12 +187,17 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 3
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-09",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-08",
         "cleared": 2,
@@ -192,14 +212,17 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 4,
-    "bosses": [],
+    "questsDone": 6,
+    "bosses": [
+      "2026-10-05"
+    ],
     "escapes": 0,
     "kinds": [
       "contribute",
       "mp",
-      "streak"
+      "streak",
+      "commit"
     ]
   },
-  "syncedAt": "2026-10-08T22:01:12.355Z"
+  "syncedAt": "2026-10-09T21:37:06.593Z"
 }
