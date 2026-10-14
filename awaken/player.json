@@ -2,7 +2,7 @@
   "login": "concatapchay123",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7804646941719926,
+  "overallPercentile": 0.7834563623053608,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 217,
+      "value": 225,
       "rank": "B",
-      "percentile": 0.8303680678789371
+      "percentile": 0.8361929141881868
     },
     {
       "code": "AGI",
-      "value": 5,
-      "rank": "C",
-      "percentile": 0.7471618518819576
+      "value": 6,
+      "rank": "B",
+      "percentile": 0.7653642266531063
     },
     {
       "code": "INT",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "C",
+      "to": "B",
+      "at": "2026-10-14T20:37:48.592Z"
+    },
     {
       "kind": "achievement",
       "subject": "quickdraw",
@@ -96,12 +103,12 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 5
+      "value": 6
     },
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 5
+      "value": 6
     },
     {
       "id": "yolo",
@@ -111,7 +118,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 217
+      "value": 225
     },
     {
       "id": "unbroken",
@@ -131,7 +138,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 25
+      "value": 24
     },
     {
       "id": "gate-opener",
@@ -186,12 +193,12 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 31
+      "value": 32
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
@@ -201,7 +208,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 14
+      "value": 17
     },
     {
       "id": "boss-slayer",
@@ -221,6 +228,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-14",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-13",
         "cleared": 2,
@@ -257,10 +269,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 0,
+    "perfectDays": 2,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 14,
+    "questsDone": 17,
     "bosses": [
       "2026-10-05"
     ],
@@ -275,5 +287,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-13T21:48:31.180Z"
+  "syncedAt": "2026-10-14T20:37:48.592Z"
 }
