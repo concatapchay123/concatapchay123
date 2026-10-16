@@ -2,7 +2,7 @@
   "login": "concatapchay123",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7838380280727891,
+  "overallPercentile": 0.7874688178949839,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 228,
+      "value": 234,
       "rank": "B",
-      "percentile": 0.8382918483379954
+      "percentile": 0.8423580124252844
     },
     {
       "code": "AGI",
-      "value": 6,
+      "value": 9,
       "rank": "B",
-      "percentile": 0.7653642266531063
+      "percentile": 0.8086320323709035
     },
     {
       "code": "INT",
@@ -103,22 +103,22 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 6
+      "value": 9
     },
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 6
+      "value": 9
     },
     {
       "id": "yolo",
       "tier": 1,
-      "value": 5
+      "value": 8
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 228
+      "value": 234
     },
     {
       "id": "unbroken",
@@ -138,7 +138,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 24
+      "value": 23
     },
     {
       "id": "gate-opener",
@@ -193,7 +193,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 33
+      "value": 34
     },
     {
       "id": "daily-grinder",
@@ -208,7 +208,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 20
+      "value": 22
     },
     {
       "id": "boss-slayer",
@@ -228,6 +228,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-16",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-15",
         "cleared": 3,
@@ -275,9 +280,9 @@
       }
     ],
     "perfectDays": 3,
-    "run": 2,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 20,
+    "questsDone": 22,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -294,5 +299,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-15T20:17:37.086Z"
+  "syncedAt": "2026-10-16T19:54:49.909Z"
 }
