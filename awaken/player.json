@@ -2,7 +2,7 @@
   "login": "concatapchay123",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7874688178949839,
+  "overallPercentile": 0.7876662275231641,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 234,
+      "value": 237,
       "rank": "B",
-      "percentile": 0.8423580124252844
+      "percentile": 0.8443278818314368
     },
     {
       "code": "AGI",
@@ -83,20 +83,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-11T20:55:48.693Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "boss-slayer",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-09T21:37:06.593Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-09T21:37:06.593Z"
     }
   ],
   "achievements": [
@@ -118,7 +104,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 234
+      "value": 237
     },
     {
       "id": "unbroken",
@@ -128,7 +114,7 @@
     {
       "id": "night-owl",
       "tier": 1,
-      "value": 21
+      "value": 23
     },
     {
       "id": "early-bird",
@@ -138,7 +124,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 23
+      "value": 24
     },
     {
       "id": "gate-opener",
@@ -193,7 +179,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 34
+      "value": 35
     },
     {
       "id": "daily-grinder",
@@ -208,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 22
+      "value": 24
     },
     {
       "id": "boss-slayer",
@@ -228,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-17",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-16",
         "cleared": 2,
@@ -282,7 +273,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 22,
+    "questsDone": 24,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -299,5 +290,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-16T19:54:49.909Z"
+  "syncedAt": "2026-10-17T19:16:58.938Z"
 }
