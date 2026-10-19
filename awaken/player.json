@@ -2,7 +2,7 @@
   "login": "concatapchay123",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7879256364805323,
+  "overallPercentile": 0.7879898243248412,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 241,
+      "value": 242,
       "rank": "B",
-      "percentile": 0.8468916295917758
+      "percentile": 0.8475216566145295
     },
     {
       "code": "AGI",
@@ -76,13 +76,6 @@
       "from": "5",
       "to": "6",
       "at": "2026-10-12T23:35:56.497Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "pull-shark",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-11T20:55:48.693Z"
     }
   ],
   "achievements": [
@@ -104,7 +97,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 241
+      "value": 242
     },
     {
       "id": "unbroken",
@@ -179,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 36
+      "value": 37
     },
     {
       "id": "daily-grinder",
@@ -194,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 26
+      "value": 28
     },
     {
       "id": "boss-slayer",
@@ -214,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-19",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-18",
         "cleared": 2,
@@ -278,7 +276,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 26,
+    "questsDone": 28,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -295,5 +293,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-18T19:23:42.310Z"
+  "syncedAt": "2026-10-19T21:27:06.111Z"
 }
