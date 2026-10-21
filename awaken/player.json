@@ -2,7 +2,7 @@
   "login": "concatapchay123",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7880537507489371,
+  "overallPercentile": 0.7881808278012472,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 243,
+      "value": 245,
       "rank": "B",
-      "percentile": 0.8481474054230344
+      "percentile": 0.8493862354473057
     },
     {
       "code": "AGI",
@@ -55,20 +55,6 @@
       "from": "C",
       "to": "B",
       "at": "2026-10-14T20:37:48.592Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "quickdraw",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-13T21:48:31.180Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-13T21:48:31.180Z"
     }
   ],
   "achievements": [
@@ -90,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 243
+      "value": 245
     },
     {
       "id": "unbroken",
@@ -110,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 25
+      "value": 24
     },
     {
       "id": "gate-opener",
@@ -165,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 38
+      "value": 39
     },
     {
       "id": "daily-grinder",
@@ -180,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 30
+      "value": 32
     },
     {
       "id": "boss-slayer",
@@ -200,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-21",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-20",
         "cleared": 2,
@@ -274,7 +265,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 30,
+    "questsDone": 32,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -291,5 +282,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-20T20:30:25.336Z"
+  "syncedAt": "2026-10-21T20:34:27.534Z"
 }
