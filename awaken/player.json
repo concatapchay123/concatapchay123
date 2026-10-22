@@ -48,15 +48,7 @@
       "percentile": 0
     }
   ],
-  "events": [
-    {
-      "kind": "stat",
-      "subject": "AGI",
-      "from": "C",
-      "to": "B",
-      "at": "2026-10-14T20:37:48.592Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -166,12 +158,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 32
+      "value": 34
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-22",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-21",
         "cleared": 2,
@@ -265,8 +262,9 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 32,
+    "questsDone": 34,
     "bosses": [
+      "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
@@ -282,5 +280,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-21T20:34:27.534Z"
+  "syncedAt": "2026-10-22T20:31:12.458Z"
 }
