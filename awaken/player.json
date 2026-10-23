@@ -2,7 +2,7 @@
   "login": "concatapchay123",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7881808278012472,
+  "overallPercentile": 0.7883068843118931,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 245,
+      "value": 247,
       "rank": "B",
-      "percentile": 0.8493862354473057
+      "percentile": 0.850608448376326
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 245
+      "value": 247
     },
     {
       "id": "unbroken",
@@ -113,7 +113,7 @@
     {
       "id": "polyglot",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "star-collector",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 39
+      "value": 40
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 34
+      "value": 35
     },
     {
       "id": "boss-slayer",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-23",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-22",
         "cleared": 2,
@@ -262,7 +267,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 34,
+    "questsDone": 35,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -280,5 +285,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-22T20:31:12.458Z"
+  "syncedAt": "2026-10-23T20:21:58.437Z"
 }
