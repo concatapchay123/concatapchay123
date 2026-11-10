@@ -2,7 +2,7 @@
   "login": "concatapchay123",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7932302204596517,
+  "overallPercentile": 0.7937899211975982,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 256,
+      "value": 262,
       "rank": "B",
-      "percentile": 0.8559111693081145
+      "percentile": 0.8592764118980429
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 256
+      "value": 262
     },
     {
       "id": "unbroken",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 1,
-      "value": 22
+      "value": 24
     },
     {
       "id": "early-bird",
@@ -88,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 25
+      "value": 24
     },
     {
       "id": "gate-opener",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 44
+      "value": 45
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 45
+      "value": 46
     },
     {
       "id": "boss-slayer",
@@ -168,7 +168,7 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "collector",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-10",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-09",
         "cleared": 0,
@@ -352,14 +357,14 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 45,
+    "questsDone": 46,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
-    "escapes": 1,
+    "escapes": 2,
     "kinds": [
       "contribute",
       "mp",
@@ -371,5 +376,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-10T00:39:39.206Z"
+  "syncedAt": "2026-11-10T22:19:24.934Z"
 }
