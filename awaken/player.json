@@ -2,7 +2,7 @@
   "login": "concatapchay123",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.8124843622144452,
+  "overallPercentile": 0.8125513879973192,
   "layout": "portfolio",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 327,
+      "value": 328,
       "rank": "A",
-      "percentile": 0.8888133930663203
+      "percentile": 0.8891871507406556
     },
     {
       "code": "AGI",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "escape-artist",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-24T03:16:29.439Z"
+    },
     {
       "kind": "stat",
       "subject": "VIT",
@@ -97,7 +104,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 327
+      "value": 328
     },
     {
       "id": "unbroken",
@@ -172,7 +179,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 55
+      "value": 56
     },
     {
       "id": "daily-grinder",
@@ -187,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 56
+      "value": 57
     },
     {
       "id": "boss-slayer",
@@ -196,8 +203,8 @@
     },
     {
       "id": "escape-artist",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "collector",
@@ -207,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 0,
@@ -446,7 +458,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 56,
+    "questsDone": 57,
     "bosses": [
       "2026-11-16",
       "2026-10-26",
@@ -454,7 +466,7 @@
       "2026-10-12",
       "2026-10-05"
     ],
-    "escapes": 2,
+    "escapes": 3,
     "kinds": [
       "contribute",
       "mp",
@@ -466,5 +478,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-22T22:25:34.628Z"
+  "syncedAt": "2026-11-24T03:16:29.439Z"
 }
