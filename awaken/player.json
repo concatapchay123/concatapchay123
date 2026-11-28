@@ -55,34 +55,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-24T03:16:29.439Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "C",
-      "to": "A",
-      "at": "2026-11-20T23:02:41.368Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "gate-opener",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-20T23:02:41.368Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-20T23:02:41.368Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "diligent",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-20T23:02:41.368Z"
     }
   ],
   "achievements": [
@@ -214,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 0,
@@ -493,5 +470,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-27T00:59:28.104Z"
+  "syncedAt": "2026-11-28T00:29:13.437Z"
 }
